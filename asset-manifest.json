@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ziddy/movie-app/static/css/main.bb46a9f5.chunk.css",
+    "main.js": "/ziddy/movie-app/static/js/main.a12619ca.chunk.js",
+    "main.js.map": "/ziddy/movie-app/static/js/main.a12619ca.chunk.js.map",
+    "runtime-main.js": "/ziddy/movie-app/static/js/runtime-main.0472deea.js",
+    "runtime-main.js.map": "/ziddy/movie-app/static/js/runtime-main.0472deea.js.map",
+    "static/js/2.d5845d61.chunk.js": "/ziddy/movie-app/static/js/2.d5845d61.chunk.js",
+    "static/js/2.d5845d61.chunk.js.map": "/ziddy/movie-app/static/js/2.d5845d61.chunk.js.map",
+    "index.html": "/ziddy/movie-app/index.html",
+    "precache-manifest.f20de22196f79e4d73cf7a08725a7790.js": "/ziddy/movie-app/precache-manifest.f20de22196f79e4d73cf7a08725a7790.js",
+    "service-worker.js": "/ziddy/movie-app/service-worker.js",
+    "static/css/main.bb46a9f5.chunk.css.map": "/ziddy/movie-app/static/css/main.bb46a9f5.chunk.css.map",
+    "static/js/2.d5845d61.chunk.js.LICENSE.txt": "/ziddy/movie-app/static/js/2.d5845d61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0472deea.js",
+    "static/js/2.d5845d61.chunk.js",
+    "static/css/main.bb46a9f5.chunk.css",
+    "static/js/main.a12619ca.chunk.js"
+  ]
+}
